@@ -1,0 +1,11 @@
+C:\Users\hamel\source\Repos\jthams\WhiteboardPractice\WhiteboardPractice\bin\Debug\netcoreapp2.2\WhiteboardPractice.deps.json
+C:\Users\hamel\source\Repos\jthams\WhiteboardPractice\WhiteboardPractice\bin\Debug\netcoreapp2.2\WhiteboardPractice.runtimeconfig.json
+C:\Users\hamel\source\Repos\jthams\WhiteboardPractice\WhiteboardPractice\bin\Debug\netcoreapp2.2\WhiteboardPractice.runtimeconfig.dev.json
+C:\Users\hamel\source\Repos\jthams\WhiteboardPractice\WhiteboardPractice\bin\Debug\netcoreapp2.2\WhiteboardPractice.dll
+C:\Users\hamel\source\Repos\jthams\WhiteboardPractice\WhiteboardPractice\bin\Debug\netcoreapp2.2\WhiteboardPractice.pdb
+C:\Users\hamel\source\Repos\jthams\WhiteboardPractice\WhiteboardPractice\obj\Debug\netcoreapp2.2\WhiteboardPractice.csprojAssemblyReference.cache
+C:\Users\hamel\source\Repos\jthams\WhiteboardPractice\WhiteboardPractice\obj\Debug\netcoreapp2.2\WhiteboardPractice.csproj.CoreCompileInputs.cache
+C:\Users\hamel\source\Repos\jthams\WhiteboardPractice\WhiteboardPractice\obj\Debug\netcoreapp2.2\WhiteboardPractice.AssemblyInfoInputs.cache
+C:\Users\hamel\source\Repos\jthams\WhiteboardPractice\WhiteboardPractice\obj\Debug\netcoreapp2.2\WhiteboardPractice.AssemblyInfo.cs
+C:\Users\hamel\source\Repos\jthams\WhiteboardPractice\WhiteboardPractice\obj\Debug\netcoreapp2.2\WhiteboardPractice.dll
+C:\Users\hamel\source\Repos\jthams\WhiteboardPractice\WhiteboardPractice\obj\Debug\netcoreapp2.2\WhiteboardPractice.pdb
